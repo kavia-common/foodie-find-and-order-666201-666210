@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/foodie-find-and-order-666201-666210/food_app_frontend"
+}
